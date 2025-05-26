@@ -1,4 +1,5 @@
-=
+=outputs screenshot=>hr-dashboard.pdf
+this is there in the above files or access output and repo link docx
 # HR Dashboard
 
 A modern, responsive HR Dashboard built with **Next.js (App Router)**, **React**, **Tailwind CSS**, and **TypeScript**. It allows easy employee management, analytics, and more through a clean and interactive UI.
